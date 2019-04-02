@@ -1,4 +1,4 @@
-
+//function to reverse a string
 
 const RepeatingString = (str) => {
     let occurance = {};
